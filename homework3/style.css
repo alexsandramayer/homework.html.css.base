@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+.main__header{
+    padding-top: 40px;
+}
+
+.main__link{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #000;
+}
+.m__link_active{
+    color: #F25822;
+}
+.m__link_icon{
+    width: 6px;
+    height: 3px;    
+}
+.main__content{
+    margin-top: 84px;
+    max-width: 522px;
+}
+.title{
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #000;
+}
+.main__text{
+    padding-top: 17px;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #888;
+}
+.main__buttons{
+    margin-top: 37px;
+}
+.main__button, .main__button_active{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: #AAA;
+    border: none;
+    background: none;
+}
+.main__button_active{
+    min-width: 140px;
+    min-height: 50px;
+    border-radius: 50px;
+    background: #F25822;
+    box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+    color: #FFF;
+}
+.main__photo{
+    width: 545px;
+    height: 375px;
+}
+
+.main__brand__logos{
+    margin-top: 162px;
+    padding-top: 97px;
+    padding-bottom: 96px;
+}
+.brand__logo{
+    width: 160px;
+    height: 50px;
+}
