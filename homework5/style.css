@@ -152,3 +152,75 @@ a{
     font-weight: 900;
     line-height: 150%;
 }
+
+.services{
+    background: #FAFAFA;
+}
+.services__subtitle{
+    padding-top: 92px;
+    text-align: center;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    font-weight: 900;
+}
+.services__descr{
+    display: block;
+    margin: 0 auto;
+    padding-top: 19px;
+    max-width: 682px;
+    color: #666;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 150%;
+}
+.services__items{
+    margin-top: 54px;
+    display: flex;
+    justify-content: space-between;
+}
+.services__item{
+    max-width: 370px;
+    min-height: 549px;
+}
+.services__img{
+    width: 370px;
+    height: 297px;
+}
+.services__item_subtitle{
+    margin-top: 20px;
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+}
+.services__item_descr{
+    margin-top: 22px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: #AAA;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 150%;
+}
+.services__button{
+    display: block;
+    margin: 0 auto;
+    margin-top: 39px;
+    border: none;
+    width: 150px;
+    height: 50px;
+    background-color: #F25822;
+    border-radius: 30px;
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 13px;
+    font-weight: 900;
+    line-height: 150%; 
+}
