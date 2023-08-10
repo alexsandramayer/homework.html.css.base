@@ -376,8 +376,8 @@ a{
     font-size: 14px;
     font-weight: 400;
     padding-left: 22px;
-	padding-right: 22px;
-	outline: none;
+    padding-right: 22px;
+    outline: none;
 }
 .subscribe__button{
     width: 100px;
@@ -586,8 +586,12 @@ a{
         padding: 43px 62px 9px 62px; 
         flex-direction: column-reverse;
         gap: 40px;
-    }
+    } 
 }
+
+
+
+
 
 
 
