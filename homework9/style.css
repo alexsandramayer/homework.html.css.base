@@ -376,6 +376,7 @@ a{
     font-size: 14px;
     font-weight: 400;
     padding-left: 22px;
+	padding-right: 22px;
 	outline: none;
 }
 .subscribe__button{
